@@ -1,0 +1,54 @@
+<div class="container" style="margin-top: 140px;">
+    <div class="row" ng-repeat="s in listSale" ng-if="idDetal == s.id">
+        <div class="col-md-6">
+            <img src="{{s.image}}" alt="" width="80%" class="mx-auto d-block">
+        </div>
+        <div class="col-md-6">
+            <div class="card" style="border: none;">
+                <div class="card-body">
+                    <h3 class="card-title text-dark">{{s.ten}}</h3>
+                    <p>
+                        <strong style="color: #ff5b6a; font-size: 26px;">{{s.giaban}} ₫</strong>
+  
+                    <p><span class="fa fa-tags"></span> <del> {{s.giagoc}} ₫</del></p>
+                    </p>
+  
+                    <hr class="border border-800">
+                    <p class="card-text" style="font-size: 18px;">{{s.mota}}<br><br></p>
+  
+                    <div>
+                        <span>Số lượng:</span>
+                        <button id="decrement" style="width: 30px;">-</button>
+                        <span id="quantity">0</span>
+                        <button id="increment" style="width: 30px;">+</button>
+                    </div>
+  
+  
+                </div>
+                <div class="card-footer text-center" style="background-color: white; border: none;">
+                    <a href="#" class="btn text-white" style="background-color: #ff5b6a;">
+                        <strong>Thêm vào giỏ hàng</strong> </a>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  <script>
+    const incrementButton = document.getElementById("increment");
+    const decrementButton = document.getElementById("decrement");
+    const quantityDisplay = document.getElementById("quantity");
+  
+    let quantity = 0;
+  
+    incrementButton.addEventListener("click", () => {
+        quantity++;
+        quantityDisplay.innerHTML = quantity;
+    });
+  
+    decrementButton.addEventListener("click", () => {
+        if (quantity > 0) {
+            quantity--;
+        }
+        quantityDisplay.innerHTML = quantity;
+    });
+  </script>

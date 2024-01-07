@@ -1,0 +1,260 @@
+{
+  "bestSeller": [
+    {
+      "id": 1,
+      "ten": "Combo Siêu Hời",
+      "mota": "4 gà rán (1 miếng)",
+      "giaban": 109000,
+      "giagoc": 140000,
+      "image": "./../images/combosieuhoi.png"
+    },
+    {
+      "id": 2,
+      "ten": "Combo Deli 1",
+      "mota": "1 gà rán (1 miếng)",
+      "giaban": 51000,
+      "giagoc": 78000,
+      "image": "../../images/combo_deli_1.png"
+    },
+    {
+      "id": 3,
+      "ten": "Combo Deli 2",
+      "mota": "2 gà rán (1 miếng)",
+      "giaban": 120000,
+      "giagoc": 168000,
+      "image": "../../images/combo_deli_2.png"
+    }
+  ],
+  "tintuc": [
+    {
+      "ten": "LÌ XÌ TRAO TAY - XÍ NGAY ƯU ĐÃI",
+      "image": "../../images/li_xi_tet_.jpg",
+      "id": 1
+    },
+    {
+      "ten": "TẾT SUM VẦY - CHILL GÀ MÊ SAY",
+      "image": "../../images/banner_tet.jpg",
+      "id": 2
+    },
+    {
+      "ten": "THƯỞNG THỨC HƯƠNG VỊ BÁNH BURGER THƯỢNG HẠNG HOÀN TOÀN MỚI",
+      "image": "../../images/burger.jpg",
+      "id": 3
+    },
+    {
+      "ten": "LOTTERIA ĐÃ CÓ MẶT TẠI GAME PLAY TOGETHER",
+      "image": "../../images/playtogether_web_1.jpg",
+      "id": 4
+    }
+  ],
+  "KMT2": [
+    {
+      "id": 1,
+      "ten": "Combo Burger LChicken Up",
+      "giaban": 80000,
+      "giagoc": 87000,
+      "image": "../../images/upsize_LChicken.png"
+    },
+    {
+      "id": 2,
+      "ten": "Combo Burger Bulgogi Up",
+      "giaban": 77000,
+      "giagoc": 83000,
+      "image": "../../images/upsize_Bul.png"
+    },
+    {
+      "id": 3,
+      "ten": "Combo Burger Double Up",
+      "giaban": 99000,
+      "giagoc": 115000,
+      "image": "../../images/upsize_Double.png"
+    },
+    {
+      "id": 4,
+      "ten": "Combo Burger Mozza Up",
+      "giaban": 106000,
+      "giagoc": 119000,
+      "image": "../../images/upsize_Mozza.png"
+    }
+  ],
+  "SpSeller": [
+    {
+      "image": "../../images/ChickenSet.png",
+      "ten": "Gà Rán Phần",
+      "mota": "2 gà rán (1 miếng)",
+      "giaban": 83000,
+      "giagoc": 113000,
+      "id": 1
+    },
+    {
+      "image": "../../images/HSSet.png",
+      "ten": "Gà Sốt HS Phần",
+      "mota": "2 gà sốt HS, 1 FF, 1 pepsi (M)",
+      "giaban": 92000,
+      "giagoc": 123000,
+      "id": 2
+    },
+    {
+      "image": "../../images/LoySet.png",
+      "ten": "Loy Set",
+      "mota": "2 gà rán (1 miếng),\n1 burger bul,\n1 FF, 2 pepsi (M)",
+      "giaban": 136000,
+      "giagoc": 173000,
+      "id": 3
+    },
+    {
+      "image": "../../images/combo_shrimp.png",
+      "ten": "Combo Burger Tôm",
+      "mota": "4 gà rán (1 miếng)",
+      "giaban": 79000,
+      "giagoc": 91000,
+      "id": 4
+    },
+    {
+      "image": "../../images/combo_bulgogi.png",
+      "ten": "Combo Burger Bulgogi",
+      "mota": "4 gà rán (1 miếng)",
+      "giaban": 77000,
+      "giagoc": 89000,
+      "id": 5
+    },
+    {
+      "image": "../../images/lodyset.png",
+      "ten": "Lody Set",
+      "mota": "4 gà rán (1 miếng)",
+      "giaban": 136000,
+      "giagoc": 161000,
+      "id": 6
+    }
+  ],
+  "khuyenmai": [
+    {
+      "ten": "Combo Siêu Hời",
+      "mota": "4 gà rán (1 miếng)",
+      "giaban": 109000,
+      "giagoc": 140000,
+      "image": "./../images/combosieuhoi.png",
+      "id": 1
+    },
+    {
+      "ten": "Combo Deli 1",
+      "mota": "2 gà rán (1 miếng)",
+      "giaban": 51000,
+      "giagoc": 78000,
+      "image": "../../images/combo_deli_1.png",
+      "id": 2
+    },
+    {
+      "ten": "Combo Deli 2",
+      "mota": "2 gà rán (1 miếng)",
+      "giaban": 120000,
+      "giagoc": 168000,
+      "image": "../../images/combo_deli_2.png",
+      "id": 3
+    },
+    {
+      "ten": "Combo Burger LChicken Up",
+      "mota": "2 gà rán (1 miếng)",
+      "giaban": 80000,
+      "giagoc": 87000,
+      "image": "../../images/upsize_LChicken.png",
+      "id": 4
+    },
+    {
+      "ten": "Combo Burger Bulgogi Up",
+      "mota": "2 gà rán (1 miếng)",
+      "giaban": 77000,
+      "giagoc": 83000,
+      "image": "../../images/upsize_Bul.png",
+      "id": 5
+    },
+    {
+      "ten": "Combo Burger Double Up",
+      "mota": "2 gà rán (1 miếng)",
+      "giaban": 99000,
+      "giagoc": 115000,
+      "image": "../../images/upsize_Double.png",
+      "id": 6
+    }
+  ],
+  "chicken": [
+    {
+      "ten": "Gà rán (1 miếng)",
+      "giaban": 35000,
+      "image": "./../images/1chicken.png",
+      "id": 1
+    },
+    {
+      "ten": "Gà sốt phô mai (1 miếng)",
+      "giaban": 40000,
+      "image": "../../images/1cheese.png",
+      "id": 2
+    },
+    {
+      "ten": "Gà sốt HS (1 miếng)",
+      "giaban": 40000,
+      "image": "../../images/1hs.png",
+      "id": 3
+    },
+    {
+      "ten": "Gà sốt đậu (1 miếng)",
+      "giaban": 40000,
+      "image": "../../images/1soy.png",
+      "id": 4
+    },
+    {
+      "ten": "Gà nướng (1 miếng)",
+      "giaban": 40000,
+      "image": "../../images/1ganuong.png",
+      "id": 5
+    },
+    {
+      "ten": "Gà tuyết vàng (1 miếng)",
+      "giaban": 39000,
+      "image": "https://dscnnwjxnwl3f.cloudfront.net/media/catalog/product/cache/2e1628f5f7131a9eb328ec1fb2c22fd3/g/o/goldensnow-chicken-534x374px_goldensnow-chicken-02_1.png",
+      "id": 6
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "fullname": "Phan Thị Hoa Phượng",
+      "email": "phuong@gmail.com",
+      "phone": "0397509321",
+      "username": "hoaphuong",
+      "password": "hoaphuong"
+    },
+    {
+      "id": 2,
+      "fullname": "Phan Thị Hoa",
+      "email": "hoa@gmail.com",
+      "phone": "0123456789",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "fullname": "Nguyệt Mai",
+      "email": "mai@gmail.com",
+      "phone": "0397509321",
+      "username": "nguyetmai",
+      "password": "nguyetmai",
+      "id": 3
+    },
+    {
+      "fullname": "Nguyễn Vân",
+      "email": "van@gmail.com",
+      "phone": "0987654321",
+      "username": "vannguyen",
+      "password": "vannguyen",
+      "id": 4
+    },
+    {
+      "fullname": "Thành Danh",
+      "email": "danh@gmail.com",
+      "phone": "0987654321",
+      "username": "thanhdanh",
+      "password": "123456",
+      "id": 5
+    }
+  ]
+}
